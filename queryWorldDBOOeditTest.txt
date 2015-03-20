@@ -1,0 +1,48 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:19:30) [MSC v.1600 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Find the cities with population within a range
+Enter the minimum population number or press <Enter> to quit):  10000000
+Enter the maximum population number: 50000000
+City:Mumbai       Population:10500000
+
+Enter next population minimum.(Press <Enter> to quit):  3000000
+Enter the maximum population number: 5000000
+City:Sydney       Population:3276207
+City:Dhaka       Population:3612850
+City:Santiago_de_Chile       Population:4703954
+City:Alexandria       Population:3328196
+City:Calcutta       Population:4399819
+City:Chennai       Population:3841396
+City:Baghdad       Population:4336000
+City:Jokohama       Population:3339594
+City:Wuhan       Population:4344600
+City:Harbin       Population:4289800
+City:Shenyang       Population:4265200
+City:Kanton       Population:4256300
+City:Chengdu       Population:3361500
+City:Pusan       Population:3804522
+City:Rangoon       Population:3361700
+City:Berlin       Population:3386667
+City:Riyadh       Population:3324000
+City:Singapore       Population:4017733
+City:Ankara       Population:3038159
+City:St_Petersburg       Population:4694000
+City:Ho_Chi_Minh_City       Population:3980000
+City:Los_Angeles       Population:3694820
+
+Enter next population minimum.(Press <Enter> to quit):  4000000
+Enter the maximum population number: 5000000
+City:Santiago_de_Chile       Population:4703954
+City:Calcutta       Population:4399819
+City:Baghdad       Population:4336000
+City:Wuhan       Population:4344600
+City:Harbin       Population:4289800
+City:Shenyang       Population:4265200
+City:Kanton       Population:4256300
+City:Singapore       Population:4017733
+City:St_Petersburg       Population:4694000
+
+Enter next population minimum.(Press <Enter> to quit):  
+>>> 
