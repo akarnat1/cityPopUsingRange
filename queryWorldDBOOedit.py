@@ -1,11 +1,8 @@
 '''
-Rafi Schulman
 Anthony Karnati
 5/2/14
 CS110-A55
 akarnat1@binghamton.edu
-rschulm4@binghamton.edu
-Chelsea Montgomery
 Assignment 13
 '''
 
